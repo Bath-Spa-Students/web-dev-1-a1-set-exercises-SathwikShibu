@@ -1,0 +1,14 @@
+body { background-image: linear-gradient(rgba(255, 255, 0, 0.18) ,rgb(113, 106, 106));
+
+}
+.PlayerUnknown Battleground {
+    filter: grayscale(0%);
+}
+
+.Call Of Duty {
+    filter: contrast(200%);
+}
+
+.Valorant {
+    filter: blur(10px);
+}
