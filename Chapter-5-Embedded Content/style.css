@@ -1,0 +1,21 @@
+body{ 
+      background-image:linear-gradient(rgb(213, 148, 29),black);
+}
+
+*{
+    margin: 10;
+    padding: 0;
+}
+
+video{
+    width: 100%;
+}
+.wrapper{
+    margin: auto;
+    width: 1000px;
+}
+footer{
+    color: white;
+    font-size: 20px;
+    margin-top: 25px;
+}
